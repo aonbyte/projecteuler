@@ -1,1 +1,2 @@
-This is just a repo of my python source code of projecteuler.net stuff.
+This is just a repo of my attemps at projecteuler.net stuff. All the source is
+in Python.
